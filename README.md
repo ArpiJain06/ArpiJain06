@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**ArpiJain06/ArpiJain06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="left"> 👋 Hey there, byte buddy! </h1>
+###
+<p align="left"> 🌍 Hello fellow adventurers and coding enthusiasts! I'm Arpita, and I am on a perpetual journey of growth, expanding both my coding prowess and my love for the world through continuous exploration. 💻🌎
+</p>
+###
+<h2 align="left"> About me </h2>
+###
+<p align="left"> 🌱 Constantly growing, both in my coding prowess and in my love for the world by exploring it more and more.
+📚 I'm currently learning Competitive programming and also diving deep into the world of web development, honing my skills to bring you innovative solutions that redefine the way you explore the world.
+🌟 Join me as I embark on this exciting journey to marry technology and travel, making every trip an unforgettable blend of innovation and adventure!
+📫 Reach out to me if you want to chat about solving real-world problems, exchange ideas, or embark on exciting projects together! Let's connect and build something amazing. 
+</p>
+###
